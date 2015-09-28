@@ -92,6 +92,10 @@
 	margin-right: .5em;
 }
 
+.Profile-description{
+	margin: 0;
+}
+
 /* Work */
 .Work{
 	margin-top: 2em;
